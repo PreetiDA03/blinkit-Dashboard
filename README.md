@@ -183,4 +183,4 @@ The analysis shows that Supermarket Type 1 is the highest revenue contributor, w
 
   Screenshot
 * The dashboard look like this.
-  ![Dashboard Preview](
+  ![Dashboard Preview](https://github.com/PreetiDA03/blinkit-Dashboard/blob/main/Blinkit.PNG)
